@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00272727273 0.0363636364 13.9636364 0.0363636364 13.9636364 14 0.00272727273 14"></polygon>
+    </defs>
+    <g id="Developer-Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-Accops-User-Listing" transform="translate(-1168.000000, -135.000000)">
+            <g id="plus" transform="translate(1168.000000, 135.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polyline id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="13.9636364 6.2425 7.7575 6.2425 7.7575 0.0363636364 6.20613636 0.0363636364 6.20613636 6.2425 0 6.2425 0 7.79409091 6.20613636 7.79409091 6.20613636 14 7.7575 14 7.7575 7.79409091 13.9636364 7.79409091 13.9636364 6.2425"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

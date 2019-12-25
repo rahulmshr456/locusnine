@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>cancel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00350649351 0.0467532468 17.9532468 0.0467532468 17.9532468 18 0.00350649351 18"></polygon>
+    </defs>
+    <g id="Developer-Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-Accops-Add-User" transform="translate(-843.000000, -236.000000)">
+            <g id="cancel" transform="translate(843.000000, 236.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polyline id="Fill-1" fill="#3F4342" mask="url(#mask-2)" points="0 1.4572987 7.56607792 9.02337662 0 16.5894545 1.41054545 18 8.97662338 10.4339221 16.5427013 18 17.9532468 16.5894545 10.3871688 9.02337662 17.9532468 1.4572987 16.5427013 0.0467532468 8.97662338 7.61312338 1.41054545 0.0467532468 0 1.4572987"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

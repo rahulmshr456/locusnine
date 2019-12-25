@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Developer-Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-Accops-User-Listing" transform="translate(-211.000000, -23.000000)" stroke="#FFFFFF">
+            <g id="Menu" transform="translate(211.000000, 15.000000)">
+                <g id="dashboard" transform="translate(0.000000, 8.000000)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="11" height="14"></rect>
+                    <rect id="Rectangle-Copy-2" x="13.5" y="9.5" width="10" height="14"></rect>
+                    <rect id="Rectangle" x="13.5" y="0.5" width="10" height="7"></rect>
+                    <rect id="Rectangle-Copy" x="0.5" y="16.5" width="11" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="32px" viewBox="0 0 115 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Developer-Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-Accops-User-Listing" transform="translate(-31.000000, -19.000000)">
+            <g id="Logo" transform="translate(32.000000, 20.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero" x="5" y="5.21320344" width="20" height="20"></rect>
+                <path d="M0,30.2132034 L30,0.213203436" id="Path" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></path>
+                <text id="locusnine" font-family="Cabin-Regular, Cabin" font-size="21" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="30" y="26">locusnine</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

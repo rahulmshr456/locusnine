@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.activeLink
+{
+  color:#f37147 !important;
+}
+
+.navbarImg
+{
+  height: 24px !important;
+  width: 24px !important;
+}
+
+.navbarLogo
+{
+  height: 24px !important;
+  width: auto !important;
+}
+
+.bg-black
+{
+  background-color: black;
+}
+
+.bg-gray
+{
+  background-color: gray;
+}
+
+.btn-orange
+{
+  background-color: #f9ad2f;
+}
+
+.text-gray
+{
+  color: #565959;
+}
+
+.border-radius-0
+{
+  border-radius: 0 !important;
+}
+
+.fullHeight
+{
+  height:100vh!important;
+}
+
+.modal-custom
+{
+  width: 30vw;
+}
+
+.text-capitalize
+{
+  text-transform: capitalize;
+}
+
+.table-container
+{
+  height: 70vh;
+  overflow-y: scroll;
+}
+
+.react-confirm-alert-button-group button:nth-child(1)
+{
+  background-color: #33cc99;
+}
+.react-confirm-alert-button-group button:nth-child(2)
+{
+  background-color: #cf3b28;
+}
+
+@media only screen and (max-width: 768px) {
+  .modal-custom
+  {
+    width: auto;
+  }
+}
